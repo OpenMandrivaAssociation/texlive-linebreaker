@@ -1,6 +1,6 @@
 Name:		texlive-linebreaker
-Version:	62663
-Release:	2
+Version:	66639
+Release:	1
 Summary:	Prevent overflow boxes with LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/linebreaker
