@@ -3,7 +3,7 @@ Version:	66639
 Release:	1
 Summary:	Prevent overflow boxes with LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/linebreaker
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/linebreaker
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/linebreaker.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/linebreaker.doc.r%{version}.tar.xz
